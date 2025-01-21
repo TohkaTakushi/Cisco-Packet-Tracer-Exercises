@@ -1,0 +1,2 @@
+Configure 2 routers
+Setup Privileged Mode and Secret
