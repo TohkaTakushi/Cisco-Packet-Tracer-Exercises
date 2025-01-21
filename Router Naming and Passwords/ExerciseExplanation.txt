@@ -1,2 +1,8 @@
-Configure 2 routers
-Setup Privileged Mode and Secret
+Exercise 1
+Configure 2 routers and set passwords
+Router Hostname: R1 and R2
+Privilege mode: cisco123
+Privilege mode secret (enable command password): ciscoSecure
+Console Line Password (initial access password): consolePass
+Aux Password: auxPass
+VTY Password: vtyPass123
