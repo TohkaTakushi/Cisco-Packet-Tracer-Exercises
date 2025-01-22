@@ -1,0 +1,5 @@
+Speed and Duplex Settings
+-------------------------
+-Determine appropriate speed and duplex based on device capabilities.
+-Manually configure speed and duplex if auto-negotiation fails.
+-Test connectivity to ensure consistent performance.

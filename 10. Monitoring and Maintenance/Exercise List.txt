@@ -1,0 +1,7 @@
+Monitoring and Maintenance
+--------------------------
+-Enable SNMP for network monitoring.
+-Set up Syslog servers for centralized logging.
+-Regularly review device configurations and logs.
+-Perform firmware/software updates.
+-Use packet analyzers (e.g., Wireshark) for troubleshooting.

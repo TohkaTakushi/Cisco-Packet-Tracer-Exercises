@@ -1,0 +1,6 @@
+NAT and WAN Configuration
+-------------------------
+-Configure Static NAT, Dynamic NAT, or PAT (overload).
+-Set up WAN protocols (e.g., PPP, MPLS).
+-Test external connectivity (e.g., ping public IPs).
+-Secure NAT/WAN settings with ACLs or firewalls.

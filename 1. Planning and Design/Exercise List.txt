@@ -1,0 +1,6 @@
+Planning and Design
+-------------------
+-Identify business requirements.
+-Design physical and logical topologies.
+-Plan IP address allocation (subnets, CIDR, VLANs).
+-Determine device and equipment needs (routers, switches, servers, etc.).

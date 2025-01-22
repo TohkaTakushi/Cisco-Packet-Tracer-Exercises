@@ -1,0 +1,6 @@
+Hostname and Basic Security Configuration
+-----------------------------------------
+-Set device hostnames.
+-Configure secure management protocols (SSH, HTTPS).
+-Set console, enable, and VTY passwords.
+-Disable unused ports and services (e.g., Telnet).

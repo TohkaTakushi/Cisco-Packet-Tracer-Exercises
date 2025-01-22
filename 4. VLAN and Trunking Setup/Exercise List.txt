@@ -1,0 +1,6 @@
+VLAN and Trunking Setup
+-----------------------
+-Create VLANs on switches.
+-Assign switch ports to appropriate VLANs.
+-Configure trunk links between switches for VLAN traffic.
+-Verify VLAN connectivity using tools like ping.

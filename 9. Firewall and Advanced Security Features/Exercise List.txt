@@ -1,0 +1,6 @@
+Firewall and Advanced Security Features
+---------------------------------------
+-Deploy and configure firewalls (e.g., access rules, zones).
+-Set up VPNs (site-to-site or client-to-site).
+-Enable intrusion detection/prevention systems (IDS/IPS).
+-Configure logging for security events.

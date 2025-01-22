@@ -1,0 +1,6 @@
+Access Control Lists (ACLs) and Port Security
+---------------------------------------------
+-Write standard or extended ACLs to filter traffic.
+-Apply ACLs to interfaces (inbound or outbound).
+-Configure port security for specific MAC addresses.
+-Set violation actions (e.g., shutdown, restrict, protect).

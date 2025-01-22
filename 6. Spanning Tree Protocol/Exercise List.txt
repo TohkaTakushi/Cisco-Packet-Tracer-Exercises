@@ -1,0 +1,6 @@
+Spanning Tree Protocol (STP)
+----------------------------
+-Enable STP on all switches.
+-Configure a root bridge (set priority).
+-Verify STP operation (show spanning-tree).
+-Tune STP parameters (e.g., portfast, BPDU guard).
