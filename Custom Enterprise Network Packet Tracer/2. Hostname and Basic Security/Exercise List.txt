@@ -1,6 +1,47 @@
 Hostname and Basic Security Configuration
 -----------------------------------------
+Note: The firewall is left out because I am not able to complete this section yet.
+I plan to setup a AAA server in a later section so that users will not need
+to be added to each server and switch.
+
+Switch1
 -Set device hostnames.
--Configure secure management protocols (SSH, HTTPS).
 -Set console, enable, and VTY passwords.
--Disable unused ports and services (e.g., Telnet).
+-Set MoTD
+
+Switch2
+-Set device hostnames.
+-Set console, enable, and VTY passwords.
+-Set MoTD
+
+Switch3
+-Set device hostnames.
+-Set console, enable, and VTY passwords.
+-Set MoTD
+
+Switch4
+-Set device hostnames.
+-Set console, enable, and VTY passwords.
+-Set MoTD
+
+R1
+-Set device hostnames.
+-Set console, enable, and VTY passwords.
+-Set MoTD
+
+R2
+-Set device hostnames.
+-Set console, enable, and VTY passwords.
+-Set MoTD
+
+Enable Password:  ciscoSecret
+Console Password: cisco123
+Telnet Password:  cisco456
+
+User John Smith
+Username: johnSmith
+Password: js1234
+
+User Sally Faux
+Username: sallyFaux
+Password: sf1234

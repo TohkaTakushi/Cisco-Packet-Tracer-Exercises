@@ -1,6 +1,0 @@
-Routing Protocol Configuration (e.g., EIGRP, OSPF)
---------------------------------------------------
--Enable the routing protocol on routers.
--Advertise appropriate networks.
--Set administrative distances if multiple protocols are used.
--Verify route tables and connectivity.
