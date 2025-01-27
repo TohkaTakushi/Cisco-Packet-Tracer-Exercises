@@ -6,7 +6,7 @@ to be added to each server and switch.
 
 Switch1
 -Set device hostnames.
--Set console, enable, secret, and VTY passwords.
+-Set console, enable, and VTY passwords.
 -Set encryption
 -Set MoTD
 
@@ -48,12 +48,10 @@ By logging in, you consent to system monitoring.
 Unauthorized users will be prosecuted to the fullest extent of the law.
 *******************************************************
 
-Enable Password:  ciscoSecure
-Enable Secret: ciscoSecret
+Enable Password:  ciscoSecret
 Console Password: cisco123
 Telnet Password:  cisco456
 
-Users only setup on router.
 User John Smith
 Username: johnSmith
 Password: js1234

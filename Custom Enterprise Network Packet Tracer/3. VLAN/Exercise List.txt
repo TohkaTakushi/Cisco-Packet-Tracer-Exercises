@@ -1,0 +1,28 @@
+Hostname and Basic Security Configuration
+-----------------------------------------
+Note: The firewall is left out because I am not able to complete this section yet.
+I plan to setup a AAA server in a later section so that users will not need
+to be added to each server and switch.
+
+Enable Password:  ciscoSecure
+Enable Secret: ciscoSecret
+Console Password: cisco123
+Telnet Password:  cisco456
+
+Users only setup on router.
+User John Smith
+Username: johnSmith
+Password: js1234
+
+User Sally Faux
+Username: sallyFaux
+Password: sf1234
+
+Task:
+Set HR to HR VLAN
+Set Finance to Finance VLAN
+Set Operations to Operations VLAN
+Set Printers to Printer VLAN
+Set Admin to Admin VLAN
+Set Servers to Servers VLAN
+
